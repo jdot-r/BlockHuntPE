@@ -1,0 +1,19 @@
+name: BlockHuntPE
+main: TKG\BlockHunt
+version: 1.0
+api:
+- 1.14.0
+- 2.0.0
+author: TheKnightGamer
+website: 
+commands:
+  BlockHunt:
+    usage: /<command>
+    description: N/A
+    aliases:
+        - bh
+        - blockhunt
+permissions:
+    BlockHunt:
+        default: op
+        description: "All the permissions to use the BlockHunt"
