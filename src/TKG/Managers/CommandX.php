@@ -6,7 +6,7 @@ use TKG\ConfigC;
 use TKG\PermissionsC;
 use TKG\W;
 
-class CommandM {
+class CommandX {
 	public $name; // String
 	public $label; // String
 	public $args; // String
