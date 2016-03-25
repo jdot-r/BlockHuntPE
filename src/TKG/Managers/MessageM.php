@@ -1,4 +1,6 @@
 <?php
+namespace TKG\Managers;
+
 use TKG\BlockHunt;
 use TKG\ConfigC;
 use TKG\Storage;
