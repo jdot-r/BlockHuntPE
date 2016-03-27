@@ -2,7 +2,7 @@
 
 namespace TKG;
 
-use BlockHunt\listener\EventListener;
+use pocketmine\listener\EventListener;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\Config;
 use pocketmine\utils\TextFormat as TF;
