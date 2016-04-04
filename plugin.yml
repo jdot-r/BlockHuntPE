@@ -8,7 +8,7 @@ author: TheKnightGamer
 website: 
 commands:
   BlockHunt:
-    usage: /<command>
+    usage: /bh <command>
     description: N/A
     aliases:
         - bh
